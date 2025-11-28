@@ -21,4 +21,4 @@ The supplementary material concludes by defining a clear and falsifiable experim
 
 ## LaTeX Source
 
-The complete LaTeX source code (`SUPPLEMENT_THE_END_OF_THE_WIMP_I.tex`) is included for journal submission.
+The complete LaTeX source code (`SUPPLEMENT_THE_END_OF_THE_WIMP_I.tex`).
